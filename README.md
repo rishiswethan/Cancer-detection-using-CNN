@@ -8,7 +8,7 @@ To use this project:
 
 2. I've included the preprocessed image data. You can download it from [here](https://drive.google.com/open?id=17LR9ssbENit-3vsEAM63FptNasB5AHrr). Now place the 5 files that you just downloaded with the folder with the .py file
 
-3. Use "pip install package-name" to install the above packages
+3. Use "pip install package-name" to install the below packages
 
 4. You need to have the following python packages installed
 	* keras
