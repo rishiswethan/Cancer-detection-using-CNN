@@ -6,15 +6,15 @@ To use this project:
 
 1. You'll need python3 to run the program
 
-2. You need to have the following python packages installed
+2. I've included the preprocessed image data. You can download it from [here](https://drive.google.com/open?id=17LR9ssbENit-3vsEAM63FptNasB5AHrr). Now place the 5 files that you just downloaded with the folder with the .py file
+
+3. Use "pip install package-name" to install the above packages
+
+4. You need to have the following python packages installed
 	* keras
 	* tensorflow (Both CPU or GPU version should do)
 	* PIL
 	* numpy
-
-3. Use "pip install package-name" to install the above packages
-
-4. I've included the preprocessed image data. You can download it from [here](https://drive.google.com/open?id=17LR9ssbENit-3vsEAM63FptNasB5AHrr). Now place the 5 files that you just downloaded with the folder with the .py file
 
 5. You can modify the default hyparameters by modifying the variables between the '#' in the first few lines line
 
