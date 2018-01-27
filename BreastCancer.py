@@ -21,7 +21,6 @@ from matplotlib.pyplot import imshow
 import os
 
 #######################################################################################################################
-dataTrainPath = "ICIAR2018_BACH_Challenge\Photos\Train\\"
 modelSavePath = 'my_model3.h5'
 numOfTestPoints = 2
 batchSize = 16
