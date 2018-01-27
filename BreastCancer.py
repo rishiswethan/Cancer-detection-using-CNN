@@ -185,7 +185,6 @@ def defModel(input_shape):
 
     # ------------------------------------------------------------------------------
 
-    # Create model. This creates your Keras model instance, you'll use this instance to train/test the model.
     model = Model(inputs=X_input, outputs=X, name='Model')
 
     return model
