@@ -212,8 +212,7 @@ def train(batch_size, epochs):
             model = load_model(modelSavePath)
         except:
             print("Training a new model")
-        finally:
-            print("Training a new model...")
+
         model.fit(X_train, Y_train, epochs=epochs, batch_size=batch_size) # <>
 
         # history = model.fit_generator(datagen.flow(X_train, Y_train, batch_size=batch_size),
